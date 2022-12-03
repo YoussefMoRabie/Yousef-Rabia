@@ -42,9 +42,13 @@
 
   <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yousef-Rabia&theme=vue" alt="yousef-rabia" /></p><hr />
 
-  <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=Yousef-Rabia&theme=minimal" alt="yousef-rabia" /></p>
 
 </details>
   
 
 </div>
+
+</p>
+<!-- Thanks -->
+<p align="center"><img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+</p>
