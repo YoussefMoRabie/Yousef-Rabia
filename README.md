@@ -1,7 +1,7 @@
 <h1 align="left">Hello World, I'm <a href="https://yousef-rabia.github.io/My-Personal-Website/" target="_blank">Yousef Rabia</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
 
  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" width="500" height="320" />
-<h3 align="left">A passionate Computer Engineering Student at Faculty of Engineering, Cairo University</h3>
+<h3 align="left">A passionate Software Engineer</h3>
 <hr />
 
 <h3 align="left"> 👀 visitor count</h3>
